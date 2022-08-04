@@ -7,8 +7,11 @@
 
 <hr>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseongei&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseongei&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseongei&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseongei&layout=compact&theme=tokyonight)
 </div>
+
 
 
 
