@@ -1,6 +1,8 @@
 <h3 align="center"> 🤗 노션 소개글 & SNS 🤗 <br/> 
   <br/> 
-<img src="https://img.shields.io/badge/Notion-lightgrey?style=flat&logo=Notion&logoColor=000000">
+<a href = "https://www.notion.so/12385d569eb645fa9b54b057288b000f" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-lightgrey?style=flat&logo=Notion&logoColor=000000">
+</a>
 <a href="https://www.instagram.com/in.seongei/" target='_blank'>
 <img src="https://img.shields.io/badge/Instagram-lightgrey?style=flat&logo=instagram&logoColor=E4405F">
 </a>
