@@ -1,6 +1,6 @@
 <h3 align="center"> 🤗 노션 소개글 & SNS 🤗 <br/> 
   <br/> 
-<a href = "https://www.notion.so/12385d569eb645fa9b54b057288b000f" target="_blank">
+<a href = "https://cheddar-deposit-ead.notion.site/305e9a2433144aaa9ee7dcf7867190be" target="_blank">
   <img src="https://img.shields.io/badge/Notion-lightgrey?style=flat&logo=Notion&logoColor=000000">
 </a>
 <a href="https://www.instagram.com/in.seongei/" target='_blank'>
