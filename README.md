@@ -1,7 +1,8 @@
 <h3 align="center"> 🤗 노션 소개글 & SNS 🤗 <br/> 
-<img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000">
+  <br/> 
+<img src="https://img.shields.io/badge/Notion-lightgrey?style=flat&logo=Notion&logoColor=000000">
 <a href="https://www.instagram.com/in.seongei/" target='_blank'>
-<img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=E4405F">
+<img src="https://img.shields.io/badge/Instagram-lightgrey?style=flat&logo=instagram&logoColor=E4405F">
 </a>
  
  
