@@ -2,8 +2,8 @@
 
 ### 🤚 Hello ! I`m inseong Jung
 
-![inseongei's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseongei&show_icons=true&bg_color=00000000)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inseongei&layout=compact&theme=transparent" height="195px" width="400px">
+![inseongei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ins62o&show_icons=true&bg_color=00000000)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ins62o&layout=compact&theme=transparent" height="195px" width="400px">
 
 
 
